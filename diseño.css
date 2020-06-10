@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background-color:#92CBC8;
+}
+h1,h2,{
+	font-family:sans-serif;
+}
+p{
+	font-family:star wars;
+}
+label{
+	font-family:star wars;
+}
+input{
+	background-color:#C6D1D1;
+}
+select{
+	background-color:#C6D1D1;
+}
+button{
+	background-color:#409F9F; 
+}
